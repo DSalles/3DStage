@@ -1,0 +1,9 @@
+c:\users\diana\documents\visual studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\bin\x86\Debug\WindowsGame7.exe
+c:\users\diana\documents\visual studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\bin\x86\Debug\WindowsGame7.pdb
+c:\users\diana\documents\visual studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\diana\documents\visual studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.exe
+c:\users\diana\documents\visual studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.pdb
+C:\Users\Diana\Documents\Visual Studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\obj\x86\Debug\3DStage.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\Visual Studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\bark.xnb
+C:\Users\Diana\Documents\Visual Studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\BARK5_0.xnb
+C:\Users\Diana\Documents\Visual Studio 2010\Projects\3DStage\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\Capture.xnb
